@@ -9,8 +9,6 @@ Math & Number Theory
 
 Arrays & Strings
 
-(Add more as you learn)
-
 Latest Solved:
 
 [Medium] Reverse Integer (Handling Overflow)
